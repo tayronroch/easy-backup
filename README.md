@@ -58,7 +58,7 @@ Baixe e instale o Nmap no [site oficial](https://nmap.org/download.html).
 
 ### **3. Clone o Repositório**
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/tayronroch/easy-backup.git
 cd seu-repositorio
 ```
 
@@ -109,7 +109,7 @@ Exemplo de estrutura gerada:
 ```
 backup_2025-01-16/
 ├── PI-TSA-CE01-CLIENTE.txt
-└── CE-FLZ-XXXXXX-XXX.txt
+└── CE-FLA-XXXXXX-XXX.txt
 ```
 
 ---
