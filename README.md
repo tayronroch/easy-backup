@@ -9,7 +9,7 @@ Script destinado a fazer Scan e back de Switchs L3 da Rede
 Este projeto consiste em dois scripts Python para automação de tarefas de rede:
 
 1. **Scan de Rede e Armazenamento em JSON**:
-   - Escaneia um bloco de IP (`10.254.254.0/24`) para identificar hosts ativos.
+   - Escaneia um bloco de IP (`10.0.0.0/24`) para identificar hosts ativos.
    - Conecta via SSH a novos hosts e coleta informações de configuração e interfaces ativas.
    - Armazena os dados no arquivo `banco-de-dados.json`.
 
